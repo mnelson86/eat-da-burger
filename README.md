@@ -10,8 +10,6 @@
   
   * [Usage](#usage)
 
-  https://img.shields.io/badge/undefined-mnelson86-blue
-
   * [Contributing](#contributing)
 
   * [Test](#test)
@@ -34,7 +32,6 @@
   ## Test
   To run a test, enter the following command:
 
-  undefined
 
   If you have any questions about this repository, please contact me at:
   matthew.p.nelson@uconn.edu
